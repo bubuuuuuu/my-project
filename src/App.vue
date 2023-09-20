@@ -1,6 +1,9 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  头像 = "无"
+  昵称 = "wangliqiong"
+  学号 = 2310273022
 </template>
 
 <script>
